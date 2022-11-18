@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.1.0
+Name=WebCord
+Comment=Chat with Friends!
+Icon=/usr/local/share/webcord/sources/assets/icons/app.png
+Exec=/usr/local/bin/webcord
+Categories=Network
+StartupNotify=false
