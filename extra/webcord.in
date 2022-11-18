@@ -1,2 +1,3 @@
 #!/bin/sh
-./usr/local/share/webcord/node_modules/typescript/bin/tsc && ./usr/local/share/webcord/node_modules/electron/dist/electron /usr/local/share/webcord/.
+cd /usr/local/share/webcord
+./node_modules/typescript/bin/tsc && ./node_modules/electron/dist/electron .
